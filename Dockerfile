@@ -1,1 +1,1 @@
-FROM errbrewe/koydoc:latest
+FROM ghcr.io/sulerns/bkimages:latest
